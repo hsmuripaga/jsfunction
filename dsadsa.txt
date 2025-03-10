@@ -1,0 +1,7 @@
+step over - nag step one = it is used to find error
+
+step into - line by line = check your program to  analyze in detail
+
+step out - exit bigla = 
+
+resume = pag naglagay ka ng break point pag nadetect niya don siya mag stop. 
